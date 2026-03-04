@@ -41,7 +41,7 @@ Le mapping est optimisé pour la rangée centrale du clavier :
 ### Étapes
 1.  **Cloner le dépôt :**
     ```bash
-    git clone [https://github.com/Lord-Einstein/tp1_javafx.git](https://github.com/Lord-Einstein/tp1_javafx.git)
+       git clone https://github.com/Lord-Einstein/tp1_javafx.git
     ```
 2.  **Importer dans IntelliJ IDEA :**
     * Ouvrir le projet via le fichier `pom.xml`.
